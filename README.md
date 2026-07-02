@@ -37,8 +37,10 @@ A SharePoint-based service desk knowledge workflow designed around structured ha
 ### Meeting Notes And Content Ingest Automation
 Repeatable workflows for turning transcripts, notes, and source material into structured summaries, actions, links, and reusable outputs.
 
-### Automation And Dashboard Workflows
-Workflow concepts using Power Automate, Power Query, Excel, Google Sheets, and structured review flows to reduce repeated manual admin work and improve operational visibility.
+### JR Automations To Ace Studio Operating System
+One of the clearest examples of my workflow-engineering approach: a business-first operating system using Google Sheets, Apple Shortcuts, Apps Script, and dashboard design to track money, chair rent, stock, content, weekly review, and decision-making in one practical workflow.
+
+Public case study: https://after-magic.github.io/jr-automations-ace-studio-operating-system.html
 
 ## What I Bring
 
