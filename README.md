@@ -1,16 +1,37 @@
-## Hi there 👋
+# Adam Tregale
 
-<!--
-**after-magic/after-magic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT service desk and technical operations professional moving into AI automation, knowledge systems, and workflow engineering.
 
-Here are some ideas to get you started:
+## Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AI-assisted workflow improvement
+- Microsoft 365 and SharePoint knowledge systems
+- Service desk automation and documentation reuse
+- LLM-assisted information capture and summarisation
+- Practical automation that solves real operational problems
+
+## Featured Projects
+
+### Personal Second Brain / LLM Wiki
+A local LLM-assisted knowledge system that keeps raw sources separate from compiled knowledge, with indexing, provenance, and operational logging.
+
+### Microsoft 365 Service Desk Knowledge Workflow
+A SharePoint-based service desk knowledge workflow using structured handoffs, review queues, and Copilot-style grounding concepts.
+
+### Meeting Notes And Content Ingest Automation
+Repeatable workflows for turning notes, transcripts, and source material into structured summaries, actions, and reusable outputs.
+
+## What I Bring
+
+- Technical support and incident investigation
+- Workflow automation and manual-work reduction
+- ServiceNow and operational data handling
+- Power Automate, Power Query, Excel, OneDrive
+- PowerShell and lightweight scripting
+- Documentation and knowledge reuse
+
+## Portfolio
+
+My portfolio site is available at:
+
+- https://after-magic.github.io
