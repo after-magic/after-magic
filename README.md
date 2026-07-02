@@ -30,8 +30,8 @@ Repeatable workflows for turning notes, transcripts, and source material into st
 - PowerShell and lightweight scripting
 - Documentation and knowledge reuse
 
-## Portfolio
+## Links
 
-My portfolio site is available at:
-
-- https://after-magic.github.io
+- Portfolio: https://after-magic.github.io
+- GitHub: https://github.com/after-magic
+- LinkedIn: https://www.linkedin.com/in/adam-t-724315133?utm_source=share_via&utm_content=profile&utm_medium=member_ios
